@@ -1,7 +1,6 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
-import ProgressBar from 'react-bootstrap/ProgressBar';
-import "bootstrap/dist/css/bootstrap.min.css";
+import TaskCompletionBar from './components/ProgressBar';
 
 
 function App() {
@@ -9,7 +8,7 @@ function App() {
     <div>
       <h1>My React App</h1>
       <Button>This is button</Button>
-      <ProgressBar now={20}/>
+      <TaskCompletionBar/>
     </div>
   );
 }
