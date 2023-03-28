@@ -1,3 +1,10 @@
+# About This Project
+
+This app is intended to be a productivity tool for everyday use. For work/school, you can set priorities, deadline, and action items as well as track your efficiency on a daily, weekly or monthly level. 
+For personal use, you will be able to create new tracking journeys for the following types of habits: Personal Growth, Health & Fitness, and Spirituality.
+
+This app will allow quick and simple setup of your dashboards as well as the ability to visualize incremental and long-term progress.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
