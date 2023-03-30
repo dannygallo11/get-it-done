@@ -1,6 +1,9 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
-import TaskCompletionBar from './components/ProgressBar';
+import "bootstrap/dist/css/bootstrap.min.css";
+import ActionItem from './components/ActionItem';
+
+// import TaskCompletionBar from './components/ProgressBar';
 
 
 function App() {
@@ -8,7 +11,7 @@ function App() {
     <div>
       <h1>My React App</h1>
       <Button>This is button</Button>
-      <TaskCompletionBar/>
+      <ActionItem />
     </div>
   );
 }

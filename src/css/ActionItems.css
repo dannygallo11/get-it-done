@@ -1,0 +1,27 @@
+.action-container{
+    display: flex;
+    width: 35vw;
+}
+
+.action-checkbox{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    align-items: center;
+}
+
+.action-item{
+    display: flex;
+    justify-content: center;
+    flex-grow: 2;
+    text-size-adjust: auto;
+    align-items: center;
+    vertical-align: center;
+}
+
+.action-priority{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
