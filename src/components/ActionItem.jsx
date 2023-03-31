@@ -6,8 +6,8 @@ const ActionItem = () => {
   return (
     <div className="action-container">
         <div className="action-checkbox"><input type="checkbox"></input></div>
-        <div className="action-item"><p>practice user story</p></div>
-        <div className="action-priority"><Form.Check type="switch" label="Priority?"/></div>
+        <div className="action-item"><p>Study</p></div>
+        <div className="action-priority"><Form.Check type="switch" label="Priority"/></div>
     </div>
   )
 }

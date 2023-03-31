@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 
 const TaskCompletionBar = () => {
-    const percentage = 70;
+    const percentage = 33;
     // const barColor = percentage < 50 ? "orange" : percentage > 49 || percentage < 100 ? "yellow" : "green";
 
     return <ProgressBar now={percentage} label={`${percentage}%`}/>
